@@ -11,6 +11,7 @@
 		D86C5BA4296D21C800A5AC04 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86C5BA3296D21C800A5AC04 /* ContentView.swift */; };
 		D86C5BA6296D21CA00A5AC04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D86C5BA5296D21CA00A5AC04 /* Assets.xcassets */; };
 		D86C5BA9296D21CA00A5AC04 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D86C5BA8296D21CA00A5AC04 /* Preview Assets.xcassets */; };
+		D86C5BB0296D221A00A5AC04 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86C5BAF296D221A00A5AC04 /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D86C5BA3296D21C800A5AC04 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D86C5BA5296D21CA00A5AC04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D86C5BA8296D21CA00A5AC04 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D86C5BAF296D221A00A5AC04 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D86C5BA1296D21C800A5AC04 /* LandingProjectApp.swift */,
 				D86C5BA3296D21C800A5AC04 /* ContentView.swift */,
+				D86C5BAF296D221A00A5AC04 /* SplashScreenView.swift */,
 				D86C5BA5296D21CA00A5AC04 /* Assets.xcassets */,
 				D86C5BA7296D21CA00A5AC04 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D86C5BB0296D221A00A5AC04 /* SplashScreenView.swift in Sources */,
 				D86C5BA4296D21C800A5AC04 /* ContentView.swift in Sources */,
 				D86C5BA2296D21C800A5AC04 /* LandingProjectApp.swift in Sources */,
 			);
